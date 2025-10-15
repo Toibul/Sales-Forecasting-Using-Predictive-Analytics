@@ -1,1 +1,1 @@
-# Sales-Forecasting-Using-Predictive-Analytics
+In this dataset, there are historical sales data of 45 Walmart stores based on store location and week. There are certain events and holidays which impact sales on each day. The business is facing a challenge due to unforeseen demands and runs out of stock some times. Walmart would like to predict the sales and demand accurately. The objective is to determine the factors affecting the sales and to analyze the impact of markdowns around holidays on the sales.
